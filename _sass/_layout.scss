@@ -212,7 +212,7 @@ color: $grey-color-light;
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
-    margin-left: calc($spacing-unit / 2) * -1;
+    margin-left: -calc($spacing-unit / 2);
     @extend %clearfix;
 }
 
