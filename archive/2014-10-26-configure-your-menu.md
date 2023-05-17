@@ -3,7 +3,7 @@ layout: post
 title: "Configure your menu"
 date: "2014-10-26"
 author: fdschneider
-menu: true
+#menu: true
 tags:
  - log
  - howto

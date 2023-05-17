@@ -2,7 +2,7 @@
 layout: project
 title: "Create your projects in jekyll-lablog"
 category: project01
-menu: "a first project"
+#menu: "a first project"
 github:
 website:
 contact:

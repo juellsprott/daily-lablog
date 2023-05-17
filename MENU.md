@@ -1,10 +1,6 @@
 ---
 ---
 
-This content will appear in the sidebar. You can add whatever you like, but it should be concise due to the limited space.
+# Novel object detection thesis
 
-It is perfect to add external links or Collections of relevant material.
-
-# Project one
-
-[lablog on Github](https://fdschneider.github.io/jekyll-lablog)
+[Thesis repository](https://github.com/juellsprott/thesis-novel-objects)
