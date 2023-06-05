@@ -18,3 +18,4 @@ title : "thesis tasks"
         - [ ] confidence: less words is better, similar results for various decoding methods is better
 - [ ] look into NOUN paper, how did humans caption images?
 - [ ] look into different BLIP-2 models aside from OPT-2.7b
+- [ ] full comparison color for all decoing strategies
